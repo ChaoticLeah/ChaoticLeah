@@ -1,6 +1,7 @@
 # Hey there!
 Im Leah a trans FOSS software dev.
 
+<p>I'm a  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=7034F7&vCenter=true&width=435&height=12&lines=Full+Stack+Developer;Game+Programmer;Artist;Web+developer" alt="Typing SVG" /></a> </p>
 Languages and frameworks I know:
 <p>
   <img alt="Html5" src="https://img.shields.io/badge/-Html-45b8d8?style=flat-square&logo=html5&logoColor=white" />
