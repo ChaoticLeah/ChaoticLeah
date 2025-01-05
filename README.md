@@ -18,6 +18,8 @@ Languages and frameworks I know:
   <img alt="Java" src="https://img.shields.io/badge/-Java-35495E?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-35495E?style=flat-square&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-35495E?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="Godot" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-478CBF?logo=unity&logoColor=fff&style=flat" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaoticleah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
