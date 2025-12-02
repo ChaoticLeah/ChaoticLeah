@@ -42,3 +42,7 @@ Certifications:
 - [Java 8 | iz0808](https://catalog-education.oracle.com/pls/certview/sharebadge?id=31B61DFFFE18474875669E027895684D49EA45093B82A4817AC7B7454A10E3C5 )
 
 <sub>Note: These certifications are using my deadname (An old name that is not used anymore due to me being trans)</sub>
+
+
+Also found here:
+https://git.gay/ChaoticLeah
